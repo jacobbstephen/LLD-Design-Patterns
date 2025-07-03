@@ -7,3 +7,5 @@ public class DebitCardPayment implements PaymentStrategy {
 		System.out.println("Payment of " + amount+ " done with Debit card");
 	}
 }
+
+

@@ -12,3 +12,6 @@ public class PaymentService {
 		strategy.pay(amount);
 	}
 }
+
+
+

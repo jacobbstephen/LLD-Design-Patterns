@@ -6,3 +6,5 @@ public class Pdf implements Format {
 		 System.out.println("Generating PDF: " + content);	
 	}
 }
+
+

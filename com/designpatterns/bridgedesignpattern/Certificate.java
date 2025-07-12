@@ -11,6 +11,6 @@ public class Certificate extends Document {
 		format.generate("Certificate");
 		
 	}
-	
-
 }
+
+

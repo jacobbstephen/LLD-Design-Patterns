@@ -16,3 +16,4 @@ public class AvailableState implements State {
 	}
 
 }
+
